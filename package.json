@@ -41,7 +41,7 @@
   "dependencies": {
     "fs-extra": "^0.30.0",
     "lodash": ">=3.5 <5",
-    "toposort": "^1.0.3"
+    "toposort": "1.0.4"
   },
   "nyc": {
     "reporter": [
